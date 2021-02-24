@@ -1,37 +1,207 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
 
-You can use the [editor on GitHub](https://github.com/sindhu542/Matcha.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<head>
 
-### Markdown
+   <title> Matcha.com</title>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</head>
 
-```markdown
-Syntax highlighted code block
+<body>
 
-# Header 1
-## Header 2
-### Header 3
+<link rel="stylesheet" hrel="stylesheet.css" type="text/css" media="all">
 
-- Bulleted
-- List
+  
 
-1. Numbered
-2. List
+<fieldset >
 
-**Bold** and _Italic_ and `Code` text
+<input style="width:100px;" type="submit" value="shop">
 
-[Link](url) and ![Image](src)
-```
+<input type="submit" value="subscribe+save">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<input style="width:100px;" type="submit" value="learn">
 
-### Jekyll Themes
+<input style="width:100px;" type="submit" value="journal">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sindhu542/Matcha.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<input style="width:100px;" type="submit" value="our story">
 
-### Support or Contact
+<input style="width:100px;" type="submit" value="recipes">
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<input style="width:100px;" type="submit" value="log in">
+
+<br><br>
+
+    
+
+</fieldset>
+
+<fieldset >
+
+<h1>we've long enjoyed the healing power of matcha</h1>
+
+<input type="image" name="sam" id="sam" src="a.jpg" alt="a"><br><br>
+
+<h4>matcha for daily immune support</h4>
+
+<p>Defend your overall wellness with matcha</p>
+
+<input style="padding:20px 70px; background-color:greenyellow;" type="submit" value="shop immune support">
+
+</fieldset><br><br><br>
+
+<h2>INQUIRY PAGE</h2>
+
+<h3>Need some help?fill this contact form</h3>
+
+<fieldset>
+
+<form>
+
+<label>First name </label>     
+
+<input style type="text" value =""><br>
+
+<label>Last name </label>
+
+<input type="text" value=""><br>
+
+<label>Date of birth</label>
+
+<input type="date" value="date"><br>
+
+<label>Gender</label><br>
+
+<label>male</label>
+
+<input type="radio" value="">
+
+<label>female</label>
+
+<input type="radio" value=""><br>
+
+<label>Phone no</label>
+
+<input type="number" value=""><br>
+
+<label>mail id</label>
+
+<input type="email" value=""><br><label>enquiry box</label>
+
+<textarea></textarea><br>
+
+<input style="padding:20px 280px; background-color:greenyellow;" type="submit" value="submit inquiry">
+
+<small> if you click the submit inquiry, your details and profile photo will be saved forour requirements.convenient charges applicable for messages.<small>
+
+</form>
+
+</fieldset>
+
+For more details,
+
+<a href="https://matcha.com/">click here
+
+</a>
+
+<style>
+
+h1{
+
+   color:red;
+
+    padding:30px 0px;
+
+}
+
+small{
+
+font-size:5px;
+
+}
+
+h3{
+
+   color: blue;
+
+   padding:20px 40px;
+
+}
+
+body{
+
+    background-color:pink;
+
+    color: black;
+
+    font-size:20px;
+
+    margin:10px 20px;
+
+   }
+
+label{
+
+    font-size:15px;
+
+}
+
+form{
+
+     font-size:90px;
+
+     color: black;
+
+     background-color: white;
+
+     border:2px solid orange;
+
+     padding:10px 20px;
+
+}
+
+iframe{
+
+      background-color: white;
+
+  }
+
+fieldset{
+
+background-color: white ;
+
+padding:10px 10px;
+
+font-size:20px;
+
+}
+
+box{
+
+display: block;
+
+}
+
+   
+
+.box-red{
+
+background-color:green;
+
+display: block-inline;
+
+}
+
+</style>
+
+</body>
+
+</html>
+
+   
+
+
+
+
+
+.
